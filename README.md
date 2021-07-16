@@ -9,7 +9,9 @@ Python web crawler framework based on Beautiful Soup html parsing and mechanize 
 4. Move into the main project folder (`cd apt-data-crawler`) and install requirements using `pip install -r requirements.txt`
 5. Run the apartment crawler script with `python renthop-crawler.py`
 
+## Notes
+The apt-data-crawler app relies on the html structure of the renthop.com website, which may be changed at any moment. Thank you for reading.
+
     Michael McCarthy <michemcc@outlook.com>
     https://www.linkedin.com/in/michemcc/
 
-------------------------------------------------------------------------
