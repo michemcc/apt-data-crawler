@@ -11,3 +11,5 @@ Python web crawler framework based on Beautiful Soup html parsing and mechanize 
 
     Michael McCarthy <michemcc@outlook.com>
     https://www.linkedin.com/in/michemcc/
+
+------------------------------------------------------------------------
